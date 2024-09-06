@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:blanchedalmond;
+}
+
+.box{
+
+    background: rgb(239, 45, 226);
+    width: 100%;
+    display: flex;
+   
+    
+    
+}
+
+.box_html{
+    background:rgb(116, 239, 45);
+   border: 10px;
+   margin: 50px;
+   height: 50px;
+   margin: 90px;
+   padding: 80px;
+}
+
+.box_css{
+    background: rgb(243, 65, 11);
+    height: 100px;
+   
+    margin: 90px;
+    padding: 80px;
+}
+
+.box_javascript{
+    background: rgb(44, 155, 246);
+    height: 50px;
+    margin: 90px;
+    padding: 80px;
+    width: 120px;
+}
+
+.box p{
+    
+    text-align: center;
+    color:rgb(7, 0, 4) ;
+    padding: 0 10px 10px 10px ; 
+}           
+
